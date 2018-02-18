@@ -7451,11 +7451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nuhmohamud/Downloads/music-linq/LinqSkeleton.csproj",
+      "projectUniqueName": "/Users/nuhmohamud/Documents/music-linq/LinqSkeleton.csproj",
       "projectName": "LinqSkeleton",
-      "projectPath": "/Users/nuhmohamud/Downloads/music-linq/LinqSkeleton.csproj",
+      "projectPath": "/Users/nuhmohamud/Documents/music-linq/LinqSkeleton.csproj",
       "packagesPath": "/Users/nuhmohamud/.nuget/packages/",
-      "outputPath": "/Users/nuhmohamud/Downloads/music-linq/obj/",
+      "outputPath": "/Users/nuhmohamud/Documents/music-linq/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nuhmohamud/.nuget/NuGet/NuGet.Config"
