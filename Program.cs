@@ -11,7 +11,7 @@ namespace ConsoleApplication
         {
             List<Artist> Artists = JsonToFile<Artist>.ReadJson();
             List<Group> Groups = JsonToFile<Group>.ReadJson();
-            String key = "William";
+            const String key = "William";
             //========================================================
             //Solved all of the prompts below using various LINQ queries
             //========================================================
