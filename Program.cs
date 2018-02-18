@@ -31,7 +31,7 @@ namespace ConsoleApplication
                 Console.WriteLine("Match found for real name {0} - {1}", KEY, i.RealName);
             }
             //Display the 3 oldest artist from Atlanta
-
+            IEnumerable<Artist> 
             //(Optional) Display the Group Name of all groups that have members that are not from New York City
 
             //(Optional) Display the artist names of all members of the group 'Wu-Tang Clan'
